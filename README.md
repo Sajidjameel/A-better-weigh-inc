@@ -37,7 +37,6 @@ This project incorporates all essential eCommerce functionality for users, from 
 - Supplements
 - Customized Meal Plans
 - Weight Loss Products
-- Detox & Cleanse
 - Fitness & Recovery
 - Vitamins & Minerals
 
